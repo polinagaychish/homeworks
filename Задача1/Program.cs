@@ -1,4 +1,4 @@
-﻿Console.Write("ВВедите число 1: ");
+﻿/*Console.Write("ВВедите число 1: ");
 int x = int.Parse(Console.ReadLine()!);
 Console.Write("ВВедите число 2: ");
 int y = int.Parse(Console.ReadLine()!);
@@ -21,4 +21,4 @@ else
 {
     Console.Write(" Наибольшее: ");
     Console.Write(y);
-}
+}*/
